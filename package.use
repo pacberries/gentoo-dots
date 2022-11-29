@@ -1,0 +1,52 @@
+# app-crypt
+app-crypt/swtpm fuse seccomp gnutls
+
+# app-editors
+>=app-editors/emacs-28.1-r2 xft -gpm -inotify -athena -alsa -gif -jpeg -png -mailutils -wideint -systemd -sqlite -ssl -imagemagick -acl -gif -xpm -lcms -sound -aqua -kerberos -livecd -m17n-lib -selinux -motif -Xaw3d -tiff -acl 
+
+# app-emulation
+app-emulation/qemu aio alsa bzip2 caps curl fdt filecaps fuse gnutls gtk io-uring jpeg lzo ncurses nls numa opengl oss pam png pulseaudio python sdl seccomp slirp spice ssh usb usbredir vde vhost-net vhost-user-fs virgl virtfs vnc vte xattr zstd -accessibility -bpf -debug -doc -glusterfs -infiniband -iscsi -jack -jemalloc -multipath -nfs -pin-upstream-blobs -plugins -rbd -sasl -sdl-image -smartcard -snappy -static -static-user -systemtap -test -xen
+app-emulation/libvirt caps fuse libssh libvirtd nls numa qemu virt-network -apparmor -audit -bash-completion -dtrace -firewalld -glusterfs -iscsi -iscsi-direct -libssh2 -lvm -lxc -nfs -parted -pcap -rbd -verify-sig -virtualbox -wireshark-plugins -xen -zfs
+app-emulation/virt-manager gtk sasl
+
+# dev-lang
+dev-lang/php -bzip2 -apparmor -gmp -kerberos -systemd -selinux -mysql -cjk -calendar -tokyocabinet -gd -jit
+
+# dev-libs
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
+
+# dev-qt
+>=dev-qt/qtmultimedia-5.15.5-r1 widgets
+
+# dev-python
+>=dev-python/PyQt5-5.15.6 declarative
+
+# media-gfx
+>=media-gfx/gimp-2.10.32-r1 -gnome -mng -postscript
+>=media-gfx/feh-3.7.2 -inotify -
+
+# media-sound
+>=media-sound/mpg123-1.30.2 -pulseaudio -sdl
+
+# media-video
+>=media-video/mpv-0.34.1-r1 -gamepad -pipewire -raspberry-pi -luajit -uchardet -selinux -dvd -javascript -wayland -xv -mmal -aqua -bluray -lcms -openal -rubberband -nvenc -cdda -dvb -egl -pipewire -gamepad -mmal -jack 
+
+# sys-libs
+>=sys-libs/ncurses-6.3_p20220423 -gpm
+>=sys-libs/zlib-1.2.12-r3 minizip
+
+# dev-python
+>=dev-python/twisted-22.10.0 conch
+
+# net-dns
+>=net-dns/dnsmasq-2.86-r1 script
+
+# net-misc
+>=net-misc/spice-gtk-0.41 gtk3 usbredir sasl
+
+# net-p2p
+>=net-p2p/qbittorrent-4.4.3.1-r1 -webui -test -dbus
+
+# xfce-base
+>=xfce-base/thunar-4.16.11 -trash-panel-plugin -pcre
+
