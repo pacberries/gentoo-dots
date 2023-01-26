@@ -1,0 +1,34 @@
+diff --git a/data/meson.build b/data/meson.build
+index 3d1b466..649626f 100644
+--- a/data/meson.build
++++ b/data/meson.build
+@@ -1,13 +1,6 @@
+ data_conf = configuration_data()
+ data_conf.set('libexecdir', libexecdir)
+ 
+-configure_file(
+-  input: 'power-profiles-daemon.service.in',
+-  output: 'power-profiles-daemon.service',
+-  configuration: data_conf,
+-  install_dir: systemd_system_unit_dir,
+-)
+-
+ configure_file(
+   input: 'net.hadess.PowerProfiles.conf.in',
+   output: 'net.hadess.PowerProfiles.conf',
+diff --git a/meson.build b/meson.build
+index 7f31046..179b2c2 100644
+--- a/meson.build
++++ b/meson.build
+@@ -26,11 +26,6 @@ bindir = get_option('bindir')
+ dbusconfdir = get_option('datadir') / 'dbus-1' / 'system.d'
+ dbusservicedir = get_option('datadir') / 'dbus-1' / 'system-services'
+ 
+-systemd_system_unit_dir = get_option('systemdsystemunitdir')
+-if systemd_system_unit_dir == 'auto'
+-    systemd_dep = dependency('systemd')
+-    systemd_system_unit_dir = systemd_dep.get_pkgconfig_variable('systemdsystemunitdir')
+-endif
+ gio_dep = dependency('gio-2.0')
+ gudev_dep = dependency('gudev-1.0', version: '>= 234')
+ upower_dep = dependency('upower-glib')
