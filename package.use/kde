@@ -1,8 +1,3 @@
 >=kde-plasma/plasma-meta-5.25.5 -accessbility -bluetooth -browser-integration -crypt -handbook -kwallet -plymouth -sdk -smart -systemd
 >=app-text/poppler-23.01.0 qt5
-# required by kde-apps/libkleo-22.08.3::gentoo
-# required by kde-apps/kopete-22.08.3::gentoo
-# required by kde-apps/kdenetwork-meta-22.08.3::gentoo
-# required by kdenetwork-meta (argument)
->=app-crypt/gpgme-1.18.0-r2 qt5
->=x11-misc/appmenu-gtk-module-0.7.6 wayland
+
