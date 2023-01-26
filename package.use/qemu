@@ -1,0 +1,15 @@
+app-emulation/qemu aio alsa bzip2 caps curl fdt filecaps fuse gnutls gtk io-uring jpeg lzo ncurses nls numa opengl oss pam png pulseaudio python sdl seccomp slirp spice ssh usb usbredir vde vhost-net vhost-user-fs virgl virtfs vnc vte xattr zstd -accessibility -bpf -debug -doc -glusterfs -infiniband -iscsi -jack -jemalloc -multipath -nfs -pin-upstream-blobs -plugins -rbd -sasl -sdl-image -smartcard -snappy -static -static-user -systemtap -test -xen
+app-emulation/libvirt caps fuse libssh libvirtd nls numa qemu virt-network -apparmor -audit -bash-completion -dtrace -firewalld -glusterfs -iscsi -iscsi-direct -libssh2 -lvm -lxc -nfs -parted -pcap -rbd -verify-sig -virtualbox -wireshark-plugins -xen -zfs
+dev-python/twisted conch
+net-dns/dnsmasq script
+net-misc/spice-gtk gtk3 usbredir
+app-emulation/virt-manager gtk sasl
+app-crypt/swtpm fuse seccomp gnutls
+>=net-libs/gnutls-3.7.8 tools pkcs11
+# required by net-libs/gnutls-3.7.8::gentoo[pkcs11]
+# required by app-emulation/qemu-7.2.0::gentoo[-static,gnutls]
+# required by sys-firmware/edk2-ovmf-202202::gentoo
+>=app-crypt/p11-kit-0.23.22 abi_x86_32
+# required by app-emulation/virt-manager-4.0.0::gentoo[gtk,-test]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.41-r1 sasl
