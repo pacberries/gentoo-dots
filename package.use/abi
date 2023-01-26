@@ -1,0 +1,817 @@
+# required by grapejuice (argument)
+>=net-libs/gnutls-3.7.8 abi_x86_32
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/openssl-1.1.1s abi_x86_32
+>=gnome-base/nautilus-43.1 -previewer
+>=dev-libs/libtasn1-4.19.0 abi_x86_32
+>=media-libs/opus-1.3.1-r4 abi_x86_32
+# required by media-libs/libsndfile-1.1.0-r1::gentoo[-minimal]
+# required by media-sound/pulseaudio-daemon-16.1-r3::gentoo
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[pulseaudio]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by @selected
+# required by @world (argument)
+>=media-sound/lame-3.100-r3 abi_x86_32
+
+
+# required by net-dns/libidn2-2.3.4::gentoo
+# required by net-libs/gnutls-3.7.8::gentoo[idn]
+# required by net-print/cups-2.4.2-r6::gentoo[ssl,-openssl]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libunistring-0.9.10-r1 abi_x86_32
+# required by net-libs/gnutls-3.7.8::gentoo
+# required by net-print/cups-2.4.2-r6::gentoo[ssl,-openssl]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-sound/pulseaudio-16.1 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[wayland]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[sdl]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxkbcommon-1.4.1 abi_x86_32
+# required by media-sound/pulseaudio-16.1::gentoo
+# required by media-plugins/gst-plugins-pulse-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[pulseaudio]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by @selected
+# required by @world (argument)
+>=media-libs/libpulse-16.1-r1 abi_x86_32
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by media-video/mpv-0.35.0-r1::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libsndfile-1.1.0-r1 abi_x86_32
+# required by media-libs/libpulse-16.1-r1::gentoo[asyncns]
+# required by media-video/mpv-0.35.0-r1::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=net-libs/libasyncns-0.8-r4 abi_x86_32
+# required by dev-libs/glib-2.74.4::gentoo[sysprof]
+# required by media-sound/pulseaudio-daemon-16.1-r3::gentoo[gstreamer]
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by media-video/mpv-0.35.0-r1::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=dev-util/sysprof-capture-3.46.0 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[theora]
+# required by media-sound/pulseaudio-daemon-16.1-r3::gentoo[-aptx,-ldac,gstreamer]
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by media-video/mpv-0.35.0-r1::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libtheora-1.1.1-r2 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[pulseaudio]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by @selected
+# required by @world (argument)
+>=media-plugins/gst-plugins-pulse-1.20.4 abi_x86_32
+>=dev-libs/nettle-3.8.1 abi_x86_32
+# required by dev-libs/nettle-3.8.1::gentoo[gmp]
+# required by net-libs/gnutls-3.7.8::gentoo
+# required by net-print/cups-2.4.2-r6::gentoo[ssl,-openssl]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/gmp-6.2.1-r2 abi_x86_32
+# required by net-libs/gnutls-3.7.8::gentoo[idn]
+# required by net-print/cups-2.4.2-r6::gentoo[ssl,-openssl]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=net-dns/libidn2-2.3.4 abi_x86_32
+# required by sys-devel/llvm-15.0.6-r1::gentoo
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/zlib-1.2.13-r1 abi_x86_32
+# required by dev-libs/glib-2.74.4::gentoo
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=virtual/libintl-0-r2 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXcursor-1.2.1 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXfixes-6.0.0 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXi-1.8 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXrandr-1.5.2 abi_x86_32
+# required by x11-libs/libXrandr-1.5.2::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXrender-0.9.11 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo[X]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXxf86vm-1.1.5 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libglvnd-1.5.0 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[X,xcomposite]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXcomposite-0.4.5 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=net-print/cups-2.4.2-r6 abi_x86_32
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/fontconfig-2.14.0-r1 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[sdl]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libsdl2-2.24.2 abi_x86_32 haptic
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/freetype-2.12.1-r1 abi_x86_32
+# required by net-print/cups-2.4.2-r6::gentoo[dbus]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[cups]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-apps/dbus-1.15.2 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[vulkan]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/vulkan-loader-1.3.231 abi_x86_32
+# required by x11-libs/libXfixes-6.0.0::gentoo
+# required by x11-libs/libXcursor-1.2.1::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libX11-1.8.1 abi_x86_32
+# required by x11-libs/cairo-1.17.6::gentoo[X]
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXext-1.3.5 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[alsa]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/alsa-lib-1.2.7.2 abi_x86_32
+# required by media-libs/gst-plugins-ugly-1.20.4::gentoo
+# required by media-plugins/gst-plugins-a52dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,a52]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/glib-2.74.4 abi_x86_32
+# required by media-libs/gst-plugins-ugly-1.20.4::gentoo
+# required by media-plugins/gst-plugins-a52dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,a52]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/gst-plugins-base-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-flac-1.20.4-r1::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[flac]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/gstreamer-1.20.4 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[unwind,-llvm-libunwind]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/libunwind-1.6.2 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[usb]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libusb-1.0.26 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[vkd3d]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=app-emulation/vkd3d-1.6 abi_x86_32
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-meta-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/gst-plugins-good-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,a52]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-a52dec-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[aac]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-faad-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[dts]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-dts-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[flac]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-flac-1.20.4-r1 abi_x86_32
+# required by media-plugins/gst-plugins-x264-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[x264]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/gst-plugins-ugly-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-mpg123-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-mpeg2dec-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[x264]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-plugins/gst-plugins-x264-1.20.4 abi_x86_32
+# required by media-plugins/gst-plugins-x264-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[x264]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/x264-0.0.20220222 abi_x86_32
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libmpeg2-0.5.1-r3 abi_x86_32
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-sound/mpg123-1.31.1 abi_x86_32
+# required by media-plugins/gst-plugins-flac-1.20.4-r1::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[flac]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/flac-1.4.2-r1 abi_x86_32
+# required by media-plugins/gst-plugins-dts-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[dts]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libdca-0.0.7 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[orc]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-lang/orc-0.4.32 abi_x86_32
+# required by media-plugins/gst-plugins-dts-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[dts]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/gst-plugins-bad-1.20.4-r1 abi_x86_32
+# required by media-libs/freetype-2.12.1-r1::gentoo[bzip2]
+# required by media-libs/fontconfig-2.14.0-r1::gentoo
+# required by x11-libs/cairo-1.17.6::gentoo
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=app-arch/bzip2-1.0.8-r4 abi_x86_32
+# required by media-plugins/gst-plugins-faad-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[aac]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/faad2-2.10.1 abi_x86_32
+# required by media-plugins/gst-plugins-a52dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,a52]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/a52dec-0.7.4-r8 abi_x86_32
+# required by sys-apps/systemd-utils-251.10::gentoo[udev]
+# required by virtual/libudev-232-r7::gentoo[-systemd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[udev]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/libcap-2.66 abi_x86_32
+# required by sys-libs/libcap-2.66::gentoo[pam]
+# required by sys-apps/systemd-utils-251.10::gentoo[udev]
+# required by virtual/libudev-232-r7::gentoo[-systemd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[udev]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/pam-1.5.2-r3 abi_x86_32
+# required by media-libs/libvorbis-1.3.7-r1::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[vorbis]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libogg-1.3.5-r1 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/pango-1.50.12 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[vorbis]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libvorbis-1.3.7-r1 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[X]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXv-1.0.11-r2 abi_x86_32
+# required by x11-libs/cairo-1.17.6::gentoo[opengl]
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/mesa-22.2.5 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[opengl,-gles2]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/graphene-1.10.8 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[opengl,-gles2]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libpng-1.6.39 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[opengl,-gles2]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/libjpeg-turbo-2.1.4 abi_x86_32
+# required by media-libs/fontconfig-2.14.0-r1::gentoo
+# required by x11-libs/cairo-1.17.6::gentoo
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/expat-2.5.0 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libdrm-2.4.114 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo[X]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libxshmfence-1.3.1 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo[X]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libxcb-1.15-r1 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo[zstd]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=app-arch/zstd-1.5.2-r3 abi_x86_32
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-devel/llvm-15.0.6-r1 abi_x86_32
+# required by sys-devel/llvm-15.0.6-r1::gentoo[libffi]
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libffi-3.4.4 abi_x86_32
+# required by sys-devel/llvm-15.0.6-r1::gentoo[ncurses]
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/ncurses-6.3_p20221203-r2 abi_x86_32
+# required by sys-devel/llvm-15.0.6-r1::gentoo[xml]
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libxml2-2.10.3-r1 abi_x86_32
+# required by media-libs/harfbuzz-6.0.0::gentoo[icu]
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/icu-72.1 abi_x86_32
+# required by sys-libs/ncurses-6.3_p20221203-r2::gentoo[gpm]
+# required by sys-devel/llvm-15.0.6-r1::gentoo[ncurses]
+# required by media-libs/mesa-22.2.5::gentoo[video_cards_radeon,-opencl,video_cards_radeonsi,-video_cards_r600,llvm]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-libs/gpm-1.20.7-r5 abi_x86_32
+# required by x11-libs/libxcb-1.15-r1::gentoo
+# required by x11-libs/libX11-1.8.1::gentoo
+# required by x11-libs/libXcursor-1.2.1::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXau-1.0.10 abi_x86_32
+# required by x11-libs/libxcb-1.15-r1::gentoo
+# required by x11-libs/libX11-1.8.1::gentoo
+# required by x11-libs/libXcursor-1.2.1::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXdmcp-1.1.3-r1 abi_x86_32
+# required by x11-libs/libXdmcp-1.1.3-r1::gentoo
+# required by x11-libs/libxcb-1.15-r1::gentoo
+# required by x11-libs/libX11-1.8.1::gentoo
+# required by x11-libs/libXcursor-1.2.1::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libbsd-0.11.7 abi_x86_32
+# required by dev-libs/libbsd-0.11.7::gentoo
+# required by x11-libs/libXdmcp-1.1.3-r1::gentoo
+# required by x11-libs/libxcb-1.15-r1::gentoo
+# required by x11-libs/libX11-1.8.1::gentoo
+# required by x11-libs/libXcursor-1.2.1::gentoo
+# required by media-libs/libsdl2-2.24.2::gentoo[X]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=app-crypt/libmd-1.0.4 abi_x86_32
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/fribidi-1.0.12 abi_x86_32
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/harfbuzz-6.0.0 abi_x86_32
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/cairo-1.17.6 abi_x86_32
+# required by x11-libs/pango-1.50.12::gentoo[X]
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/libXft-2.3.6 abi_x86_32
+# required by x11-libs/cairo-1.17.6::gentoo
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/lzo-2.10 abi_x86_32
+# required by x11-libs/cairo-1.17.6::gentoo
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=x11-libs/pixman-0.42.2 abi_x86_32
+# required by media-libs/harfbuzz-6.0.0::gentoo[graphite]
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-libs/gst-plugins-base-1.20.4::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-gfx/graphite2-1.3.14_p20210810-r2 abi_x86_32
+# required by dev-libs/glib-2.74.4::gentoo
+# required by media-plugins/gst-plugins-cdparanoia-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[cdda]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=dev-libs/libpcre2-10.40-r1 abi_x86_32
+# required by sys-apps/systemd-utils-251.10::gentoo[udev]
+# required by virtual/libudev-232-r7::gentoo[-systemd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[udev]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=sys-apps/util-linux-2.38.1 abi_x86_32
+# required by media-libs/glu-9.0.2::gentoo
+# required by virtual/glu-9.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=virtual/opengl-7.0-r2 abi_x86_32
+# required by media-libs/libsdl2-2.24.2::gentoo[opengl]
+# required by media-sound/mpg123-1.31.1::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[mp3]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=virtual/glu-9.0-r2 abi_x86_32
+# required by dev-libs/libusb-1.0.26::gentoo[udev]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[usb]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=virtual/libudev-232-r7 abi_x86_32
+# required by virtual/glu-9.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20221201::gentoo
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.20.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.4::gentoo[-dvd,mpeg,-vcd]
+# required by app-emulation/wine-vanilla-7.0.1::gentoo[gstreamer]
+# required by virtual/wine-0-r10::gentoo
+# required by games-emulation/grapejuice-7.2.1::dietnusse
+# required by grapejuice (argument)
+>=media-libs/glu-9.0.2 abi_x86_32
+
+>=sys-apps/systemd-utils-251.10 abi_x86_32
+>=virtual/libiconv-0-r2 abi_x86_32
+
+>=virtual/libelf-3-r1 abi_x86_32
+
+>=dev-libs/elfutils-0.188 abi_x86_32
+>=media-plugins/gst-plugins-cdparanoia-1.20.4 abi_x86_32
+
+>=media-sound/cdparanoia-3.10.2-r7 abi_x86_32
